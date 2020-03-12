@@ -1,0 +1,4 @@
+CenterID	DonorID	OrganID	SuborganID	BlockID	Label	X	Y	Z	deltaX	deltaY	deltaZ
+UZHC	D500	Lung	LLL	5A2	Parenchyma	1	2	5	1	1	1
+UZHC	D500	Lung	LLL	5A3	Parenchyma	1	3	5	1	1	1
+UZHC	D500	Lung	LLL	6A2	Parenchyma	1	2	6	1	1	1
